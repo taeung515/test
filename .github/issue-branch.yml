@@ -1,4 +1,4 @@
-branchName: "${issue.title}-#${issue.number}"
+branchName: "${issue.title}-${issue.number}"
 autoCloseIssue: true
 openDraftPR: true
 copyIssueLabelsToPR: true
