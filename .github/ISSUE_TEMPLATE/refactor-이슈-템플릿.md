@@ -1,7 +1,7 @@
 ---
 name: refactor 이슈 템플릿
 about: 기능변경 없이 수정 시 해당 템플릿을 사용해주세요
-title: "[refactor] 제목을 입력해주세요"
+title: "제목을 입력해주세요"
 labels: "♻️ Refactor"
 assignees: ''
 

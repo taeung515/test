@@ -1,7 +1,7 @@
 ---
 name: Bug 이슈 템플릿
 about: Bug 발견 시 문제 해결을 위한 이슈 템플릿
-title: '[Bug] 제목을 입력해주세요'
+title: '제목을 입력해주세요'
 labels: "🐛 Bug"
 assignees: ''
 
