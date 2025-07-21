@@ -2,7 +2,7 @@
 name: feature 이슈 템플릿
 about: 새로운 기능 개발 및 개선 시 해당 이슈 템플릿을 사용해주세요
 title: "[feat] 제목을 입력해주세요"
-labels: "✨ feat"
+labels: "✨ Feature"
 assignees: ''
 
 ---
