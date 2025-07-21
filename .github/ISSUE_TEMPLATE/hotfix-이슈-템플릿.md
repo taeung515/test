@@ -1,7 +1,7 @@
 ---
 name: HOTFIX 이슈 템플릿
 about: HOTFIX 코드 수정 시 이 템플릿을 사용해주세요
-title: "[HOTFIX] 제목을 입력해주세요"
+title: "제목을 입력해주세요"
 labels: "🚨 HOTFIX"
 assignees: ''
 
